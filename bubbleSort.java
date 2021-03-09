@@ -1,3 +1,7 @@
+/**************************
+ * Author: Aaron Rai
+ * Sort  : bubbleSort
+ **************************/
 package SortingVisualizer;
 
 import java.util.Arrays;

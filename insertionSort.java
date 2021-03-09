@@ -1,3 +1,7 @@
+/**************************
+ * Author: Aaron Rai
+ * Sort  : insertionSort
+ **************************/
 package SortingVisualizer;
 
 import java.util.Arrays;
